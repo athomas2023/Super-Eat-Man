@@ -1,2 +1,2 @@
-# Super Eat Man
+# SuperEat Man
  
