@@ -17,6 +17,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
