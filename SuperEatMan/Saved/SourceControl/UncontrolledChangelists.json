@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BT_Enemy.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BTT_FindRandomPatrol.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/Enemy_Character.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BTT_ChasePlayer.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/Enemy_Controller.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/PlayerBP/PlayerBP.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BB_Enemy.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/PrototypeLevels/PlayerContTest.umap",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/DocTest/BB_Enemy.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/DocTest/BT_Enemy.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/DocTest/BTT_ChasePlayer.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/DocTest/BTT_FindRandomPatrol.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BT_AI.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BBD_AI.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/Task/BTTask_RoamAround.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/DocTest/Enemy_Controller.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/AI_Controller.uasset",
+				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/Task/BTTask_ChaseMeatMan.uasset"
+			]
+		}
+	]
+}
