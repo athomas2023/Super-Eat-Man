@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/micha/Desktop/Super Eat Man Project/Super-Eat-Man/SuperEatMan/Content/PrototypeLevels/PlayerContTest.umap",
+				"C:/Users/micha/Desktop/Super Eat Man Project/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Weapons/PistolProjectile.uasset",
+				"C:/Users/micha/Desktop/Super Eat Man Project/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/PlayerBP/PlayerBP.uasset",
 				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BT_Enemy.uasset",
 				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/BTT_FindRandomPatrol.uasset",
 				"C:/Users/cmesd/Desktop/Super-Eat-Man/SuperEatMan/Content/BluePrintResources/Enemy/Enemy_Character.uasset",
