@@ -72,3 +72,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Unreal Engine's "Saved" folder and its contents
+Saved/
+
+# Ignore Unreal Engine's "Autosave" folder and its contents
+Saved/Autosave/
+
+# Ignore Unreal Engine's "Logs" folder and its contents
+Saved/Logs/
+
+# Ignore Unreal Engine's "Crashes" folder and its contents
+Saved/Crashes/
+
