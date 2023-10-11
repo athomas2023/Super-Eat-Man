@@ -85,3 +85,10 @@ Saved/Logs/
 # Ignore Unreal Engine's "Crashes" folder and its contents
 Saved/Crashes/
 
+# Compiled source files for the engine to use
+Intermediate/*
+Plugins/*/Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+
