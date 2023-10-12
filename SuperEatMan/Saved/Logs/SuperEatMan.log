@@ -1142,3 +1142,143 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.12-01.25.33:202][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2023.10.12-01.25.33:209][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.10.12-01.25.33:258][  0]LogViewport: Scene viewport resized to 1256x443, mode Windowed.
+[2023.10.12-01.29.38:701][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.12-01.29.38:832][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-01.29.38:835][802]LogMaterial: Display: Material /Engine/VREditor/LaserPointer/LaserPointerMaterial.LaserPointerMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.12-01.29.38:901][802]MapCheck: Warning: LaserPointerMaterial Material /Engine/VREditor/LaserPointer/LaserPointerMaterial.LaserPointerMaterial was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.10.12-01.29.38:964][802]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelStreaming/CurrentLevel.CurrentLevel
+[2023.10.12-01.29.38:964][802]Cmd: MAP LOAD FILE="../../../../../College_work/4725/Super-Eat-Man/SuperEatMan/Content/LevelStreaming/CurrentLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.12-01.29.38:964][802]LightingResults: New page: Lighting Build
+[2023.10.12-01.29.38:964][802]LoadErrors: New page: Loading map: CurrentLevel.umap
+[2023.10.12-01.29.38:967][802]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-01.29.38:967][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-01.29.38:970][802]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.10.12-01.29.38:971][802]MapCheck: New page: Map Check
+[2023.10.12-01.29.38:971][802]LightingResults: New page: Lighting Build
+[2023.10.12-01.29.38:979][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.12-01.29.38:982][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.12-01.29.38:983][802]LogWorld: UWorld::CleanupWorld for CurrentLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-01.29.38:983][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-01.29.38:992][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.12-01.29.39:001][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.12-01.29.39:006][802]LogAudio: Display: Audio Device (ID: 1) registered with world 'CurrentLevel'.
+[2023.10.12-01.29.39:006][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-01.29.39:006][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-01.29.39:006][802]LogAIModule: Creating AISystem for world CurrentLevel
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: ================================================
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Total job queries 6,387, among them cache hits 4 (0.06%)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Tracking 6,383 distinct input hashes that result in 4,558 distinct outputs (71.41%)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: RAM used: 83.15 MiB of 3.20 GiB budget. Usage: 2.54%
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Shaders Compiled: 6,283
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Jobs assigned 6,283, completed 6,283 (100.00%)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Average time worker was idle: 0.01 s
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Time job spent in pending queue: average 148.41 s, longest 297.63 s
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Job execution time: average 3.78 s, max 32.19 s
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Job life time (pending + execution): average 152.19 s, max 297.93
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 299.54 s
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Jobs were issued in 644 batches (only local compilation was used), average 9.76 jobs/batch
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Average processing rate: 20.98 jobs/sec
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Total thread time: 2,240.001 s
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Total thread preprocess time: 68.052 s
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Percentage time preprocessing: 3.04%
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Effective parallelization: 7.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 13.26 sec, max 28.42 sec, min 1.63 sec)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.62 sec, max 6.15 sec, min 1.40 sec)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.53 sec, max 4.33 sec, min 2.62 sec)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.37 sec, max 2.19 sec, min 0.83 sec)
+[2023.10.12-01.29.39:009][802]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.09 sec, max 1.42 sec, min 0.81 sec)
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.31% of total time (compiled  150 times, average 1.09 sec, max 1.42 sec, min 0.81 sec)
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 3.58% of total time (compiled   96 times, average 0.84 sec, max 1.40 sec, min 0.58 sec)
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.55% of total time (compiled    6 times, average 13.26 sec, max 28.42 sec, min 1.63 sec)
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.44% of total time (compiled  128 times, average 0.60 sec, max 1.01 sec, min 0.33 sec)
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.28% of total time (compiled   96 times, average 0.77 sec, max 1.17 sec, min 0.38 sec)
+[2023.10.12-01.29.39:010][802]LogShaderCompilers: Display: ================================================
+[2023.10.12-01.29.39:013][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_6) is flushing async loading
+[2023.10.12-01.29.39:013][802]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.10.12-01.29.39:019][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_7) is flushing async loading
+[2023.10.12-01.29.39:089][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_5) is flushing async loading
+[2023.10.12-01.29.39:113][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_4) is flushing async loading
+[2023.10.12-01.29.39:117][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_11) is flushing async loading
+[2023.10.12-01.29.39:120][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_12) is flushing async loading
+[2023.10.12-01.29.39:123][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_3) is flushing async loading
+[2023.10.12-01.29.39:126][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_1) is flushing async loading
+[2023.10.12-01.29.39:129][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_8) is flushing async loading
+[2023.10.12-01.29.39:131][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_2) is flushing async loading
+[2023.10.12-01.29.39:134][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_9) is flushing async loading
+[2023.10.12-01.29.39:135][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelStreaming/SubLevel_10) is flushing async loading
+[2023.10.12-01.29.39:146][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.12-01.29.39:160][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.12-01.29.39:163][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_6' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_6' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_7' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_6' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_7' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_8' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_6' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_7' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_8' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_9' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_6' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_7' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_8' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_9' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_10' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_1' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_2' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_3' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_4' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_5' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_6' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_7' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_8' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_9' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_10' which isn't loaded.
+[2023.10.12-01.29.39:163][802]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/LevelStreaming/SubLevel_11' which isn't loaded.
+[2023.10.12-01.29.39:164][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.687ms to complete.
+[2023.10.12-01.29.39:164][802]LogFileHelpers: Loading map 'CurrentLevel' took 0.200
+[2023.10.12-01.29.41:576][ 59]LogSlate: Window 'Message Log' being destroyed
+[2023.10.12-01.29.41:581][ 59]LogSlate: Window 'Message Log' being destroyed
