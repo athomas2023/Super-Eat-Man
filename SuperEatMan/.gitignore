@@ -91,6 +91,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Ignore the "Config" folder and its contents
+Config/
 
 # Ignore the "Config" folder and its contents
 Config/
