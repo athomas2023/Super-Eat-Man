@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmos.init.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosEndpointSettings.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSettings.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSoundfieldSettings.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSpatializationSourceSettings.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosExternalEndpoints.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosPluginModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSettings.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSoundfield.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSpatialization.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSpatializationSourceSettings.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\DolbyAtmos\\DolbyAtmosSubmixBufferListener.cpp.obj"
+	]
+}
