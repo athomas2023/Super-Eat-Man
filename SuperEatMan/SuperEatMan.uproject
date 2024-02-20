@@ -11,11 +11,6 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
-		},
-		{
-			"Name": "DolbyAtmos",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/da9e6332145a42a1b186ef9e84945348"
 		}
 	]
 }
